@@ -1,0 +1,32 @@
+{
+  "our mission": {
+    "title": "Our Mission",
+    "content": "To position corporate entities and the average Ghanaian to apply knowledge, wherever it resides, to improve their universe of discourse"
+  },
+  "our vision": {
+    "title": "Our Vision",
+    "content": "To become and remain a strategic partner in Ghana’s quest to become knowledge-based society"
+  },
+  "our legal status": {
+    "title": "Our Legal Status",
+    "content": "Knowledge Kinetics Organisation is incorporated under the Companies Act, 1963 (Act 179) and the liability of its members are limited by guarantee. It was certified to commence business on the 23 rd day of September 2016."
+},
+"accordion": [
+    {
+        "title": "Our Ethos",
+        "content": "What we believe, our philosophy: What gets measured gets done."
+      },
+      {
+        "title": "Our Motto",
+        "content": "Our percept, law, rule of behavior: Always seek knowledge."
+      },
+      {
+        "title": "Our Slogan",
+        "content": "Our trademark, label, brand or tag: It is not what you do, but how you do it; Connecting those who know with those who want to know."
+      },
+      {
+        "title": "Our Watchwords",
+        "content": "Words that evoke optimism, sense of purpose and duty, and define our standards: Knowledge; Reform; Research; Know-how; Learning; Insight; Collaboration and Information and communication Technology (ICT)."
+      }
+  ]
+}
