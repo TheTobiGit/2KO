@@ -1,6 +1,6 @@
 <template>
   <div>
-    <ContactBanner />
+    <ContactBanner class="hidden md:flex" />
     <Header />
     <slot />
   </div>

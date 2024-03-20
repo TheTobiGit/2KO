@@ -1,0 +1,20 @@
+{
+    "standards": [
+      {
+        "picture": "/images/standards/professionalism.png",
+        "title": "PROFESSIONALISM",
+        "description": "We deliver relevant, quality and reliable services with dynamism, skill and in line with best practices within the Knowledge Economy"
+      },
+      {
+        "picture": "/images/standards/teamwork.png",
+        "title": "TEAM WORK",
+        "description": "We believe that knowledge is of two things: it is either in your head or in someone else’s head. We operate on the principle that Together Each Achieves More (TEAM). We partner and collaborate with relevant public, private and foreign organizations to deliver our services"
+      },
+      {
+        "picture": "/images/standards/originality.png",
+        "title": "ORIGINALITY",
+        "description": "The uniqueness of our services comes with unique challenges. Change is a process and not an event. On this premise, our passion to propel Ghana into the Knowledge Economy enjoins us to continuously innovate to secure buy in from MDAs and MMDAs, usually tagged, lethargic. On the basis of our inventiveness and broad capabilities, slowly but surely, we will gravitate individuals and corporate entities from the known to the unknown"
+      }
+    ]
+  }
+  
