@@ -20,9 +20,9 @@
       </div>
       <div class="flex flex-col gap-4">
         <p class="text-xl">Subscribe to Our Newsletter</p>
-        <form class="flex flex-col gap-2">
-          <input type="email" placeholder="Enter your email" class="w-full p-2 bg-white rounded-lg" />
-        <button class="bg-white text-[#1F2223] rounded-lg p-2 w-max">Subscribe</button>
+        <form class="flex flex-col gap-3">
+          <input type="email" placeholder="Enter your email" class="w-full p-2 bg-white rounded-md" />
+        <button class="bg-white text-[#1F2223] rounded-md p-2 w-max">Subscribe</button>
       </form>
       </div>
     </div>
