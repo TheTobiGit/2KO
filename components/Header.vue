@@ -7,7 +7,6 @@
       <ul class="flex items-center gap-5 text-xl">
         <li>Home</li>
         <li>About Us</li>
-        <li>Services</li>
         <li>Contact Us</li>
       </ul>
     </div>

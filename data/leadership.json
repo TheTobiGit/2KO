@@ -1,0 +1,52 @@
+{
+  "managementTeam": [
+    {
+      "name": "Dr. Edwin Acheampong",
+      "position": "CEO"
+    },
+    {
+      "name": "Mr. Kwesi Acheampong",
+      "position": "Director"
+    },
+    {
+      "name": "Ms. Deborah Acheampong",
+      "position": "Head of Administration"
+    },
+    {
+      "name": "Mr. Enoch Acquah Hagan",
+      "position": "Head of Marketing"
+    }
+  ],
+  "boardOfDirectors": [
+    {
+      "name": "Mr. Samuel Otabil",
+      "position": "Former, Assistant Commissioner, Ghana Revenue Authority"
+    },
+    {
+      "name": "Dr. Ebenezer Owusu",
+      "position": "Lecturer, UG"
+    },
+    {
+      "name": "Ps. Dr. John Appiah",
+      "position": "Lecturer, VVU"
+    },
+    {
+      "name": "Rev. Jacob Tetteh-Quarshie",
+      "position": ""
+    },
+    {
+      "name": "Hon. Michael Omari Wadie",
+      "position": ""
+    },
+    {
+      "name": "Mr. Kwesi Acheampong",
+      "position": ""
+    },
+    {
+      "name": "Dr. Edwin Acheampong",
+      "position": ""
+    }
+  ]
+}
+
+  

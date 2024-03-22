@@ -2,7 +2,7 @@
   <div>
     <div v-for="(item, index) in items" :key="index">
       <div @click="toggleAccordion(index)" class="bg-gray-100 border-b">
-        <div class="flex items-center justify-between p-4 cursor-pointer">
+        <div class="flex items-center justify-between p-2 transition-all cursor-pointer">
           <div class="font-semibold">{{ item.title }}</div>
           <div v-if="activeIndex === index">
             <svg
@@ -38,7 +38,7 @@
           </div>
         </div>
       </div>
-      <div v-if="activeIndex === index" class="p-4 bg-white">
+      <div v-if="activeIndex === index" class="p-4 transition-all bg-white">
         {{ item.content }}
       </div>
     </div>

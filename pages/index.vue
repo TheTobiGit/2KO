@@ -13,7 +13,6 @@
   <Services />
   <Standards />
   <KnowledgeBanner />
-  <Footer />
 </template>
 
 <style>
