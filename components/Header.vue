@@ -5,9 +5,9 @@
     </div>
     <div class="hidden md:flex">
       <ul class="flex items-center gap-5 text-xl">
-        <li>Home</li>
-        <li>About Us</li>
-        <li>Contact Us</li>
+        <NuxtLink to="/">Home</NuxtLink>
+        <NuxtLink to="/about">About Us</NuxtLink>
+        <NuxtLink to="/contact">Contact Us</NuxtLink>
       </ul>
     </div>
   </section>
